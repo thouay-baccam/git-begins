@@ -5,3 +5,9 @@ Les 3 commandes push:
 git add . [. pour tout ajouter, sinon specifier quel fichier]
 git commit -m "titre du commit"
 git push
+git pull
+
+Pour ajouter une branche et switch entre branches: 
+git branch [nom de votre branche]
+git switch [nom de votre branche]
+("git checkout [nom de votre branche]" marche aussi)
