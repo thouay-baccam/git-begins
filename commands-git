@@ -5,3 +5,4 @@ Les 3 commandes push:
 git add . [. pour tout ajouter, sinon specifier quel fichier]
 git commit -m "titre du commit"
 git push
+git pull
